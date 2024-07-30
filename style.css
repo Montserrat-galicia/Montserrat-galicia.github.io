@@ -1,0 +1,33 @@
+*{
+    font-family: "Tajawal", sans-serif;
+}
+header{
+    background-color: #BC7FCD;
+}
+header span{
+    color: whitesmoke;
+}
+.nav-item a{
+    color: aliceblue;
+}
+.nav-item a:visited{
+    color: whitesmoke;
+}
+.nav-item a:hover{
+    color: #673F69;
+}
+#nav-button{
+    background-color: #756AB6;
+}
+.icon-square .bi{
+    color:#E3A5C7;
+   font-size: 2em;
+}
+
+.img-proyecto1{
+    background-image: url(/assets/pinterest.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+
