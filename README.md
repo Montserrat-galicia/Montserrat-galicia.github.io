@@ -6,7 +6,7 @@ El propósito de esta página web es mostrar mi portafolio de proyectos como des
 
 Puesdes visualizarlo aquí [Portafolio](https://montserrat-galicia.github.io/).
 
-## Tecnologías
+## Tecnologías 
 
 * HTML
 * CSS
